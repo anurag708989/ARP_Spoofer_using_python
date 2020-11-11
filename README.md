@@ -8,6 +8,13 @@ arp spoofer using python
 ### running arp spoofer script 
 ![](Screenshot_2020-11-11_03-36-36.png)
 ## As for demo i have choosen my windows machine as target and my wifi as gateway you see in the code i  uploaded
+
+### Here in the given example
+### my target(windows) ip:192.168.0.104
+### gateway ip :192.168.0.1
+### kali ip:192.168.0.108
+
+
 ##before running arp spoofer 
 ![](without_arp_spoof.png)
 
