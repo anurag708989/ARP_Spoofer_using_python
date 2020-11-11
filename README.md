@@ -2,6 +2,7 @@
 arp spoofer using python 
 ## modules used: scapy ,time ,optparse(optional) 
 ## requires network scanner also to see the targets IPs
+## see here: <a href="https://github.com/anurag708989/Python_Network_Scanner"> Network_Scanner</a>
 
 
 ### running arp spoofer script 
